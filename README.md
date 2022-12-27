@@ -5,10 +5,13 @@ Laboratory on the basics of programming (C)
 
 
 ##### [1. Разработка консольного приложения. Целое число и символ]
+(https://github.com/Artemiksss/Programming_1_sem/tree/main/first-lab)
 
 ##### [2. Расчёт значения функции в заданной точке]
+(https://github.com/Artemiksss/Programming_1_sem/tree/main/second-lab)
 
 ##### [3. Представление чисел в различных системах счисления и битовые операции]
+(https://github.com/Artemiksss/Programming_1_sem/tree/main/third-lab)
 
 ##### [4. Логические операции]
 
